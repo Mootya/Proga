@@ -1,0 +1,10 @@
+G:\Домашка\Прога\Моя группа\Моя группа\bin\Debug\Моя группа.exe.config
+G:\Домашка\Прога\Моя группа\Моя группа\bin\Debug\Моя группа.exe
+G:\Домашка\Прога\Моя группа\Моя группа\bin\Debug\Моя группа.pdb
+G:\Домашка\Прога\Моя группа\Моя группа\obj\Debug\Моя группа.csprojAssemblyReference.cache
+G:\Домашка\Прога\Моя группа\Моя группа\obj\Debug\Моя_группа.Form1.resources
+G:\Домашка\Прога\Моя группа\Моя группа\obj\Debug\Моя_группа.Properties.Resources.resources
+G:\Домашка\Прога\Моя группа\Моя группа\obj\Debug\Моя группа.csproj.GenerateResource.cache
+G:\Домашка\Прога\Моя группа\Моя группа\obj\Debug\Моя группа.csproj.CoreCompileInputs.cache
+G:\Домашка\Прога\Моя группа\Моя группа\obj\Debug\Моя группа.exe
+G:\Домашка\Прога\Моя группа\Моя группа\obj\Debug\Моя группа.pdb

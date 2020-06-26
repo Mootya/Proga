@@ -1,0 +1,7 @@
+G:\Домашка\Прога\OOP3\OOP3\bin\Debug\OOP3.exe.config
+G:\Домашка\Прога\OOP3\OOP3\bin\Debug\OOP3.exe
+G:\Домашка\Прога\OOP3\OOP3\bin\Debug\OOP3.pdb
+G:\Домашка\Прога\OOP3\OOP3\obj\Debug\OOP3.csprojAssemblyReference.cache
+G:\Домашка\Прога\OOP3\OOP3\obj\Debug\OOP3.csproj.CoreCompileInputs.cache
+G:\Домашка\Прога\OOP3\OOP3\obj\Debug\OOP3.exe
+G:\Домашка\Прога\OOP3\OOP3\obj\Debug\OOP3.pdb

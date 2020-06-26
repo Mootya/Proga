@@ -1,0 +1,10 @@
+G:\Домашка\Прога\DataGridView1\DataGridView1\bin\Debug\DataGridView1.exe.config
+G:\Домашка\Прога\DataGridView1\DataGridView1\bin\Debug\DataGridView1.exe
+G:\Домашка\Прога\DataGridView1\DataGridView1\bin\Debug\DataGridView1.pdb
+G:\Домашка\Прога\DataGridView1\DataGridView1\obj\Debug\DataGridView1.csprojAssemblyReference.cache
+G:\Домашка\Прога\DataGridView1\DataGridView1\obj\Debug\DataGridView1.Form1.resources
+G:\Домашка\Прога\DataGridView1\DataGridView1\obj\Debug\DataGridView1.Properties.Resources.resources
+G:\Домашка\Прога\DataGridView1\DataGridView1\obj\Debug\DataGridView1.csproj.GenerateResource.cache
+G:\Домашка\Прога\DataGridView1\DataGridView1\obj\Debug\DataGridView1.csproj.CoreCompileInputs.cache
+G:\Домашка\Прога\DataGridView1\DataGridView1\obj\Debug\DataGridView1.exe
+G:\Домашка\Прога\DataGridView1\DataGridView1\obj\Debug\DataGridView1.pdb
